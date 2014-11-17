@@ -1,0 +1,44 @@
+  body {
+    background-color: black;
+    color: white;
+    text-align: center;
+    background-image: url("images/pic.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+  }
+  main {
+    background-color: rgba(50, 50, 50, 0.2);
+  }
+  p.intro {
+    font-size: 30px;
+    max-width: 500px;
+    margin: 0 auto;
+    padding: 1em;
+  }
+  h2 {
+    font:50px arial, serif;
+  }
+  h1 {
+    font: 100px georgia, sans-serif;
+    padding: 20px;
+  }
+  h1:hover {
+    color: rgba(100, 100, 100, 0.5);
+  }
+  form {
+    padding: 20px;
+  }
+  address.contact {
+    display: inline;
+  }
+  ul {
+    list-style-type: none;
+  }
+  a[href^="mailto"] {
+    color: white;
+    font: 18px;
+  }
+  a[href^="tel:"] {
+    color: white;
+    font: 18px;
+  }
