@@ -1,10 +1,10 @@
-$(document).ready(function() {
+// $(document).ready(function() {
 
-  $(".info").hide();
+//   $(".info").hide();
 
-  $("h1").click(function() {
-    $(this).next().fadeIn(750);
-    $("h1").hide();
-    });
+//   $("h1").click(function() {
+//     $(this).next().fadeIn(750);
+//     $("h1").hide();
+//     });
 
-});
+// });

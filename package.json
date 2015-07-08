@@ -1,0 +1,24 @@
+{
+  "name": "AlexanderMonsanto.github.io",
+  "version": "1.0.0",
+  "description": "",
+  "main": "jquery.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AlexanderMonsanto/AlexanderMonsanto.github.io.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlexanderMonsanto/AlexanderMonsanto.github.io/issues"
+  },
+  "homepage": "https://github.com/AlexanderMonsanto/AlexanderMonsanto.github.io",
+  "dependencies": {
+    "body-parser": "^1.12.0",
+    "ejs": "^2.3.1",
+    "express": "^4.12.2"
+  }
+}
