@@ -41,14 +41,23 @@ h6 {
 
 .intro-message {
     position: relative;
-    padding-top: 20%;
-    padding-bottom: 20%;
+    margin-top: 100px;
+    padding-top: 3%;
+    padding-bottom: 3%;
+    padding-left: 3%;
+    padding-right: 3%;
+    background-color: rgba(200,200,200,.7);
+    border-radius: 50px;
+    max-height: 100%;
+    max-width: 85%;
 }
 
 .intro-message > h1 {
     margin: 0;
     text-shadow: 2px 2px 3px rgba(0,0,0,0.6);
     font-size: 5em;
+    color: coral;
+
 }
 
 .intro-divider {
@@ -167,4 +176,8 @@ footer {
 
 p.copyright {
     margin: 15px 0 0;
+}
+
+.listo-pic, .cascadia-pic {
+    margin-top: 5%;
 }
