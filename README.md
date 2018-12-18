@@ -1,8 +1,8 @@
-# [Alexander Monsanto's Portfoli](http://AlexanderMonsanto.github.io/)
+# [Alexander Monsanto's Portfolio](http://AlexanderMonsanto.github.io/)
 
-## View My Work
+## Web Development and Design
 
-See some of my feature projects including, Listo, Cascadia Trails, Community First and more. It you have any questions feel free to reach out.
+Listed are some examples of my web dev projects including Hermes Foundation, Listo, Cascadia Trails. It you have any questions feel free to reach out to me.
 
 
 
